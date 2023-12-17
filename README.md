@@ -16,7 +16,7 @@ Welcome to Simon Says Game project! This interactive memory-based game is built 
 
 ## How to Play
 
-1. Open the [Simon Says Game](link-to-your-game) in your web browser.
+1. Open the [Simon Says Game](https://rishabh-rander.github.io/Simon-Says-Game/) in your web browser.
 2. Press any key on the keyboard to start the game.
 3. Pay attention to the sequence of button flashes and replicate it by clicking the corresponding buttons.
 4. The game will advance to higher levels as you successfully complete each sequence.
